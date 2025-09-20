@@ -30,9 +30,9 @@ O objetivo é aplicar conceitos de:
 ## 📂 Estrutura do Projeto
 
 src/projetoheranca/
-├─ Animal.java
-├─ Cachorro.java
-├─ Gato.java
+├─ Animal.java </br>
+├─ Cachorro.java</br>
+├─ Gato.java</br>
 └─ Main.java
 
 ## ▶️ Execução
@@ -45,6 +45,6 @@ A classe `Main.java` demonstra:
 ### Saída esperada:
 
 Cachorro{nome='Luke', idade=5, raca='Shih Tzu'}
-Luke (Cachorro) está latindo: Au Au!
+Luke (Cachorro) está latindo: Au Au!</br>
 Gato{nome='Mel', idade=3, cor='Cinza'}
 Mel (Gato) está miando: Miau!
