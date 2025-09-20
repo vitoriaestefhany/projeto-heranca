@@ -29,7 +29,7 @@ O objetivo é aplicar conceitos de:
 
 ## 📂 Estrutura do Projeto
 
-src/projetoheranca/
+src/projetoheranca/</br>
 ├─ Animal.java </br>
 ├─ Cachorro.java</br>
 ├─ Gato.java</br>
